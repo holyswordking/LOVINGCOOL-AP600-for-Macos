@@ -1,7 +1,8 @@
 # LOVINGCOOL-AP600-for-Macos
 雷利酷LOVINGCOOLAP600数显散热器驱动 for Macos
 概述
-![Uploading image.png…]()
+<img width="1440" height="1440" alt="3943623S__52903941_0" src="https://github.com/user-attachments/assets/19468e3f-7400-4cbb-9c42-111cd20f7a69" />
+
 
 黑苹果（Hackintosh）环境下的数显屏原生驱动。原厂软件只有 Windows 版，
 本 App 通过逆向其 USB HID 协议，用纯 macOS 原生 API 实现同样功能。
